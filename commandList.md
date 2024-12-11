@@ -15,8 +15,10 @@
 ## ls
 * Gives a list of all the files and directories in the given path.
 
-### options
-* -a -> Shows all files
+  ### options
+  * -a -> Shows all files
 
 ## cd
 * Changes present working directory to given Relative or Absolute Path.
+
+
